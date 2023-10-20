@@ -17,13 +17,14 @@ disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
+ShowCodeCopyButtons: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

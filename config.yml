@@ -11,8 +11,13 @@ buildExpired: false
 # googleAnalytics: UA-123-45
 
 minify:
-  disableXML: true
+  disableXML: false
   minifyOutput: true
+
+sitemap:
+  changeFreq: "always"
+  filename: sitemap.xml
+  priority: -1
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.

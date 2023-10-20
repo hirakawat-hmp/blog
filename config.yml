@@ -72,14 +72,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "I Love Tonkotsu-ramen &#x1F35C;"
-    Content: Welcome to my blog & portfolio...
+    Title: "Tonkotsu &#x1F35C; Portfolio"
+    Content: "豚骨ラーメンが好きなデータサイエンティストの備忘録/ポートフォリオ。\n\n統計・機械学習の他、データビジュアライズ、サイトのギミック制作に興味があります。\n\n #Python #Blender #Unreal Engine"
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/ds_tonkotsu"
     - name: github
       url: "https://github.com/hirakawat-hmp"
 

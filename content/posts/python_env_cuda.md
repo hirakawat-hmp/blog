@@ -1,5 +1,5 @@
 ---
-title: "複数バージョンのCUDAを管理する環境構築"
+title: "複数バージョンのCUDAを管理するオレオレ環境構築"
 date: 2023-10-20T23:59:17+09:00
 # weight: 1
 # aliases: ["/first"]
@@ -36,6 +36,10 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+前提として、私の場合は`pyenv`上に`conda`環境を作る方式で長い間、環境管理をしてきました。
+できれば`conda`を使いたくないプロジェクトの場合には、`pyenv`上で`pip`のみで構築する環境を作る、みたいなことをすれば`pip`環境と`conda`環境を容易に使い分けることができます。
+今回紹介するのは`conda`を使った複数バージョンの`cuda`の管理方法です。
 
 ## 環境
 * OS: Debian 12(WSL2)

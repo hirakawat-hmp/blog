@@ -121,10 +121,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: gallery
-      name: gallery
-      url: /gallery/
-      weight: 30
+    # - identifier: gallery
+    #   name: gallery
+    #   url: /gallery/
+    #   weight: 30
     - identifier: Archives
       name: archives
       url: /archives/

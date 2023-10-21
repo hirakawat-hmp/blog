@@ -20,7 +20,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["images/tw-card.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark #auto, dark, light
   disableThemeToggle: false

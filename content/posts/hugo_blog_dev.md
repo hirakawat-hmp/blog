@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "HugoとGithub Pagesを使って爆速でブログを公開するまでの手順"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://hirakawat-hmp.github.io/portfolio/posts/hugo_blog_dev/"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 hideSummary: false

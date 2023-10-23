@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "大昔の公開されているコードを動かす際や、最新のコードを動かす際には求められるcudaバージョンが違ったりします。今回はcondaを使って複数バージョンのcudaを管理するオレオレPython環境構築法を紹介します。"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://hirakawat-hmp.github.io/portfolio/posts/python_env_cuda/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
